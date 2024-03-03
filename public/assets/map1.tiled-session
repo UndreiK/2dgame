@@ -1,0 +1,34 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmj",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "map.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 494.5,
+                "y": 230.5
+            }
+        },
+        "map.tmj#terrian": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "D:/projects/js/2dgame/public/assets",
+    "last.imagePath": "D:/projects/js/2dgame/public/assets",
+    "map.lastUsedExportFilter": "Все файлы (*)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "map.tmj"
+    ],
+    "project": "map1.tiled-project",
+    "recentFiles": [
+        "map.tmj"
+    ],
+    "tileset.embedInMap": true
+}
